@@ -51,7 +51,6 @@ import serial.tools.list_ports
 import threading
 import time
 from scipy import interpolate
-#blabla
 
 
 class read_Bronkhorst_Thread(threading.Thread):
